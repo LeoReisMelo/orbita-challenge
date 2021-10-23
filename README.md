@@ -27,7 +27,7 @@ execute yarn start ou npm start na raiz da pasta
       <a href="#">
         <img src="https://github.com/LeoReisMelo.png" width="100px;" alt="Leonardo Reis"/><br>
         <sub>
-          <b styles="color="black"">Leonardo Reis</b>
+          <b>Leonardo Reis</b>
         </sub>
       </a>
     </td>
@@ -38,14 +38,16 @@ execute yarn start ou npm start na raiz da pasta
 
 Esse projeto conta apenas com a aplicação **frontend**
 
-## <img src="https://img.icons8.com/windows/32/000000/code.png"/> Tecnologias utilizadas
+## 💻 Tecnologias utilizadas
 
-° ReactJS ,br/>
+° ReactJS <br/>
 ° TailwindCSS
 
-## 📝 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
-
-[⬆ Voltar ao topo](Orbita Challenge)<br>
-
+<style>
+  table {
+    border: none;
+  }
+  b {
+    color: black;
+  }
+</style>
