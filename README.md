@@ -1,7 +1,5 @@
 # Orbita Challenge
 
-<img src="https://w7.pngwing.com/pngs/155/428/png-transparent-geocentric-orbit-solar-system-free-orbit-s-text-solar-system-orbit.png" alt="pngwing">
-
 ## 🚀 Instalando orbita-challenge
 
 Para instalar o orbita-challenge, siga estas etapas:
@@ -25,6 +23,6 @@ Esse projeto conta apenas com a aplicação **frontend**
 
 ## 💻 Tecnologias utilizadas
 
-° [ReactJS] <br/>
-° [TailwindCSS]
+° [ReactJS](https://pt-br.reactjs.org/)<br/>
+° [TailwindCSS](https://tailwindcss.com/)
 
