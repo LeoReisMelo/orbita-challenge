@@ -1,6 +1,6 @@
 # Orbita Challenge
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="https://w7.pngwing.com/pngs/155/428/png-transparent-geocentric-orbit-solar-system-free-orbit-s-text-solar-system-orbit.png" alt="pngwing">
 
 ## 🚀 Instalando orbita-challenge
 
@@ -19,35 +19,12 @@ Para usar orbita-challenge, siga estas etapas:
 execute yarn start ou npm start na raiz da pasta
 ```
 
-## 🤝 Desenvolvido por:
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://github.com/LeoReisMelo.png" width="100px;" alt="Leonardo Reis"/><br>
-        <sub>
-          <b>Leonardo Reis</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
 ## 📝 Informações
 
 Esse projeto conta apenas com a aplicação **frontend**
 
 ## 💻 Tecnologias utilizadas
 
-° ReactJS <br/>
-° TailwindCSS
+° [ReactJS] <br/>
+° [TailwindCSS]
 
-<style>
-  table {
-    border: none;
-  }
-  b {
-    color: black;
-  }
-</style>
